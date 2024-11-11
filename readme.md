@@ -4,8 +4,8 @@ This Abstract Syntax Tree Interpreter is carefully crafted using Go programming 
 
 Sources:
 
-- Crafting Interpreters, Robert Nystrom. [Link](https://craftinginterpreters.com)
-- jlox, Java Lox implementation. [Link](https://github.com/munificent/craftinginterpreters/tree/master/java/com/craftinginterpreters)
+- [Crafting Interpreters](https://craftinginterpreters.com) book, Robert Nystrom.
+- [jlox](https://github.com/munificent/craftinginterpreters/tree/master/java/com/craftinginterpreters), Java Lox implementation.
 
 ## How to use
 
